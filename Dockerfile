@@ -1,5 +1,6 @@
 # Start from the code-server Debian base image
-FROM codercom/code-server:lastest
+FROM codercom/code-server:latest
+
 
 USER sucicada
 
